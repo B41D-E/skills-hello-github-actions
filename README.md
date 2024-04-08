@@ -18,10 +18,10 @@ _Create a GitHub Action and use it in a workflow._
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
-:raised_hands: :raised_hands: :raised_hands: :raised_hands: :raised_hands:
+
 ## Step 5: Trigger the workflow
 
-_You've now got a fully functioning workflow! :smile:_
+_You've now got a fully functioning workflow! :smile:_ :raised_hands: :raised_hands: :raised_hands: :raised_hands: :raised_hands:
 
 Your new action will run any time a pull request has been opened.
 
