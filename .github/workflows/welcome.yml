@@ -1,0 +1,6 @@
+name: My first job, welcome.
+on:
+  pull_request:
+    types: [opened]
+permissions:
+  pull-requests: write
