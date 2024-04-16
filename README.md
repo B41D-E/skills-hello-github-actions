@@ -12,6 +12,8 @@
 _Create a GitHub Action and use it in a workflow._
 
 </header>
+:raised_hands:
+:raised_hands:
 
 <!--
   <<< Author notes: Step 5 >>>
